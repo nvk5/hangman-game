@@ -1,5 +1,8 @@
 ## Hangman (Виселица) - угадай имя
 
+
+**[Посмотреть демо](https://nvk5.github.io/hangman-game/)**
+
 ## Стек
 
 * Vue 3 (Composition API)
